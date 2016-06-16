@@ -1,3 +1,12 @@
+var city = prompt("Are we going to 'Nevada' or 'Virginia?");
+
+  if(city === "Nevada") {
+    console.log("Pack your bags, " + name ", we're going to VEGAS!");
+  } else{
+    console.log("We're going to find my sister, " + name + ", I just know it.")
+  }
+
+
 # Choose Your Own Adventure!
 
 ### Rules
